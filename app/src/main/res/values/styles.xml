@@ -1,0 +1,191 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:fontFamily">@font/open_sans</item>
+        <item name="android:splitMotionEvents">false</item>
+        <item name="android:windowEnableSplitTouch">false</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!--Tab custom layout-->
+    <style name="AppTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/AppTabTextAppearance</item>
+        <item name="tabMode">scrollable</item>
+        <item name="tabIndicatorHeight">0dp</item>
+        <item name="tabBackground">@drawable/tab_background</item>
+        <item name="tabSelectedTextColor">@color/colorPrimary</item>
+        <item name="rippleColor">@color/transparent</item>
+        <item name="tabRippleColor">@color/transparent</item>
+        <item name="itemRippleColor">@color/transparent</item>
+        <item name="tabUnboundedRipple">@color/transparent</item>
+    </style>
+
+    <!-- for text -->
+    <style name="AppTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">@color/gray</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Small</item>
+        <item name="textAllCaps">false</item>
+    </style>
+    <!-- for text -->
+
+    <style name="BottomSheetTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/BottomSheetStyle</item>
+    </style>
+
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="Album" />
+
+    <style name="Album.MatchParent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Album.AppBar">
+        <item name="android:background">@color/albumTransparent</item>
+    </style>
+
+    <style name="Album.AppBar.General">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Album.AppBar.General.Transparent">
+        <item name="elevation">@dimen/_1sdp</item>
+    </style>
+
+    <style name="Album.Theme.Toolbar.Popup" parent="ThemeOverlay.AppCompat.Light">
+        <item name="actionMenuTextColor">@color/albumFontDark</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="Album.Theme.Toolbar.Dark" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="actionMenuTextColor">@color/albumFontLight</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="Album.Theme.Toolbar.Light" parent="ThemeOverlay.AppCompat.Light">
+        <item name="actionMenuTextColor">@color/albumFontDark</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="Album.Toolbar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="popupTheme">@style/Album.Theme.Toolbar.Popup</item>
+    </style>
+
+    <style name="Album.Toolbar.Dark">
+        <item name="android:theme">@style/Album.Theme.Toolbar.Dark</item>
+        <item name="titleTextColor">@color/albumFontLight</item>
+        <item name="subtitleTextColor">@color/albumFontLight</item>
+    </style>
+
+    <style name="Album.WrapContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Album.WrapContent.WidthMatchParent">
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="Album.MatchParent.SheetBottom">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/_40sdp</item>
+    </style>
+
+    <style name="Album.CheckBox" parent="Widget.AppCompat.CompoundButton.CheckBox" />
+
+    <style name="Album.CheckBox.WrapContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Album.Dialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="Album.Dialog.Folder">
+        <item name="android:windowBackground">@color/albumTransparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Album.Item" />
+
+    <style name="Album.Item.Card">
+        <item name="android:foreground">?selectableItemBackground</item>
+        <item name="cardCornerRadius">@dimen/_1sdp</item>
+        <item name="cardElevation">@dimen/_1sdp</item>
+        <item name="cardPreventCornerOverlap">false</item>
+    </style>
+
+    <style name="Album.Item.Card.MatchParent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="Album.TextButton" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog" />
+
+    <style name="Album.TextButton.WrapContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Album.TextButton.WrapContent.SheetBottom">
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:maxWidth">@dimen/_190sdp</item>
+        <item name="android:textColor">@color/albumFontLight</item>
+    </style>
+
+    <style name="Album.Toolbar.Light">
+        <item name="android:theme">@style/Album.Theme.Toolbar.Light</item>
+        <item name="titleTextColor">@color/albumFontDark</item>
+        <item name="subtitleTextColor">@color/albumFontDark</item>
+    </style>
+
+    <style name="Album.Theme.Button" parent="@style/Theme.AppCompat.Light" />
+
+    <style name="Album.Button" parent="Widget.AppCompat.Button">
+        <item name="android:theme">@style/Album.Theme.Button</item>
+    </style>
+
+    <style name="Album.Button.WrapContent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Album.Progress" parent="Widget.AppCompat.ProgressBar" />
+
+    <style name="Album.Progress.Loading">
+        <item name="android:minWidth">@dimen/_35sdp</item>
+        <item name="android:maxWidth">@dimen/_35sdp</item>
+        <item name="android:minHeight">@dimen/_35sdp</item>
+        <item name="android:maxHeight">@dimen/_35sdp</item>
+        <item name="android:layout_width">@dimen/_35sdp</item>
+        <item name="android:layout_height">@dimen/_35sdp</item>
+    </style>
+
+    <style name="Album.WrapContent.Transfer">
+        <item name="android:clickable">true</item>
+        <item name="android:padding">@dimen/_7sdp</item>
+    </style>
+
+
+</resources>

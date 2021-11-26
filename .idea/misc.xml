@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/drawable/ic_arrow_back.xml" value="0.14351851851851852" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/drawable/ic_profile_placeholder.xml" value="0.18518518518518517" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/fragment_drawer.xml" value="0.1425925925925926" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/fragment_home.xml" value="0.10092592592592593" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/fragment_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/layout/lyt_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Projects/Store and More/app/src/main/res/menu/navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/address_card_shadow.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/album_ic_done_white.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/album_ic_eye_white.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/album_ic_image_camera_white.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/card_shadow.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/ic_delete.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/ic_grid.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/ic_grid_.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/ic_home.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/ic_logout_.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/left_btn_bg.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/right_btn_bg.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/selected_date_shadow.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/selected_shadow.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/selector_category.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/selector_home.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/slider_selected_dot.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/tab_background.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/tab_background_selected.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/tab_background_unselected.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/drawable/text_view_ripple.xml" value="0.19166666666666668" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_pay_stack.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_payment.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_stripe_payment.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_web_view.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_activity_album_dark.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_activity_album_light.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_activity_gallery.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_activity_null.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_dialog_floder.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_dialog_loading.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_item_content_button.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_item_content_image.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_item_content_video.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/album_item_dialog_folder.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/counter_menuitem_layout.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/dialog_bank_detail.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/dialog_change_password.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/dialog_no_internet.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/dialog_order_confirm.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/dialog_update_app.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/dialog_wallet_recharge.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_address_add_update.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_address_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_cart.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_category.xml" value="0.17552083333333332" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_checkout.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_faq.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_favorite.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_flash_sale.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_map.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_order_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_order_placed.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_product_detail.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_refer_earn.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_review.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_sub_category.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_tracker_detail.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_wallet_transection.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/fragment_web_view.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/item_content_image.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/item_progressbar.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_address_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_cartlist.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_category_grid.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_category_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_checkout_item_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_city_area_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_date.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_detail_slider.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_faq_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_flash_item_grid.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_fullscreenimg.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_image_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_item_grid.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_item_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_items.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_notification_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_review_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_save_for_later.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_slider.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_spinner_item.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_style_2.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_style_3.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_subcategory.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_time_slot.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_toolbar.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_trackorder.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_transection_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/lyt_wallet_transection_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/offer_layout.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/offer_lyt.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/section_layout.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/simmer_address_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/simmer_cart_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/simmer_checkout.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/simmer_order_list.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/simmer_payment.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/simmer_wallet.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/spinner_item.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/layout/spinner_search_item.xml" value="0.1" />
+        <entry key="..\:/Store and More/app/src/main/res/menu/album_menu_album.xml" value="0.14351851851851852" />
+        <entry key="..\:/Store and More/app/src/main/res/menu/album_menu_gallery.xml" value="0.14351851851851852" />
+        <entry key="..\:/Store and More/app/src/main/res/menu/album_menu_item_camera.xml" value="0.14351851851851852" />
+        <entry key="..\:/Store and More/app/src/main/res/menu/main_menu.xml" value="0.14351851851851852" />
+        <entry key="..\:/Store and More/app/src/main/res/menu/navigation.xml" value="0.14351851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

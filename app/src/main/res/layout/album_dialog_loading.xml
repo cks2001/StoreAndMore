@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Album.WrapContent"
+    android:gravity="center"
+    android:paddingLeft="@dimen/_35sdp"
+    android:paddingTop="@dimen/_20sdp"
+    android:paddingRight="@dimen/_35sdp"
+    android:paddingBottom="@dimen/_20sdp">
+
+    <com.exampe.storeandmore.helper.album.widget.ColorProgressBar
+        android:id="@+id/progress_bar"
+        style="@style/Album.Progress.Loading" />
+
+    <TextView
+        android:id="@+id/tv_message"
+        style="@style/Album.WrapContent"
+        android:layout_marginStart="@dimen/_20sdp"
+
+        android:textColor="@color/albumFontHint"
+        android:textSize="@dimen/_16ssp" />
+
+</LinearLayout>
